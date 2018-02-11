@@ -1,0 +1,13 @@
+Without using jargon, how would you describe the command line to a lay person (e.g. your mum)?
+Command line is a means of interacting with a computer program. where the user (or client) issues commands to the program in the form of successive lines of text (command lines). A program which handles the interface is called a command language interpreter or shell. 
+Ten Terminal commands
+1. pwd - this command prints a working directory
+2. cd - this command changes or navigates to a directory
+3. ls - this will list the directory you are currently in
+4. mkdir - this command will allow you to create or make a directory
+5. clear - this command will allow you to clear screen of all current code then allow you to continue coding
+6. exit - will exit you from the shell
+7. pushd - will allow you to push all your altered files you have worked on to github
+8. rmdir - will allow you to remove a directory , removing it completely
+9. man - this command will allow you to read a manual page
+10. mkdir i/like/reading (example) will allow you to add three levels of pathway
